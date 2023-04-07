@@ -2,11 +2,11 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [C Code](#C Code)
-* [ASM Code](#ASM Code)
-* [Ghidra Analysis](#Ghidra Analysis)
-* [IDA Pro Analysis](#IDA Pro Analysis)
-
+* [C Code](#C-Code)
+* [ASM Code](#ASM-Code)
+* [Ghidra Analysis](#Ghidra-Analysis)
+* [IDA Pro Analysis](#IDA-Pro-Analysis)
+* [breakdown](#breakdown)
 
 ## Introduction
 
