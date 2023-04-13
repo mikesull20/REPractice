@@ -1,4 +1,4 @@
-# Analyzing Helloworld.c (WORK IN PROGRESS)
+# Analyzing CrackMe by awakxn
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -12,6 +12,7 @@ Author: Awakxn
 Platform: Windows
 Difficulty: 1.5
 Quality: 4.0
+Program Name: rev50_linux64-bit
 
 Description: very very simple crackme!
 
