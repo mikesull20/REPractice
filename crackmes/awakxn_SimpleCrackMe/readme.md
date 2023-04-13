@@ -1,5 +1,5 @@
 # Analyzing CrackMe by awakxn
-k
+
 ## Table of Contents
 * [Introduction](#introduction)
 * [Running the program](#Running-the-program)
